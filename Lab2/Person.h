@@ -24,4 +24,3 @@ private:
 	double rate;    // ставка
 	void SetRate();
 };
-
